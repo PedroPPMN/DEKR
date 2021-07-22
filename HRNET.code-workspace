@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../mnt/data/Unifall"
+		},
+		{
+			"path": "../APIs"
+		}
+	],
+	"settings": {}
+}
